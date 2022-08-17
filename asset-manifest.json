@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bfa083f.css",
+    "main.js": "/static/js/main.83866596.js",
+    "static/js/787.3dd3f24c.chunk.js": "/static/js/787.3dd3f24c.chunk.js",
+    "static/media/newcover.mp4": "/static/media/newcover.4a2649abea9d9b44d5ac.mp4",
+    "static/media/GenJyuuGothic-Regular.ttf": "/static/media/GenJyuuGothic-Regular.e201ca409c084f1ec671.ttf",
+    "static/media/club_logo.png": "/static/media/club_logo.30b4c7715c499d742b39.png",
+    "static/media/camp_post.jpg": "/static/media/camp_post.c1c1bb8190e21a258f7c.jpg",
+    "static/media/competition.jpg": "/static/media/competition.0ce3efcceef370cd9c91.jpg",
+    "static/media/arrow.gif": "/static/media/arrow.874ed242212456a70b98.gif",
+    "static/media/club_course.jpg": "/static/media/club_course.4d6e7ad765fdd30be0cd.jpg",
+    "index.html": "/index.html",
+    "main.2bfa083f.css.map": "/static/css/main.2bfa083f.css.map",
+    "main.83866596.js.map": "/static/js/main.83866596.js.map",
+    "787.3dd3f24c.chunk.js.map": "/static/js/787.3dd3f24c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bfa083f.css",
+    "static/js/main.83866596.js"
+  ]
+}
