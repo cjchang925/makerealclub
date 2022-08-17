@@ -114,11 +114,6 @@
 }
 
 @font-face {
-    font-family: 'google-fonts';
-    src: url('../fonts/cwTeXYen-zhonly.ttf') format("truetype");
-}
-
-@font-face {
     font-family: 'taipei';
     src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
 }
