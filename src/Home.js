@@ -12,9 +12,7 @@ const Home = () => {
                 <ClubLogo />
                 <ClubIntro />
                 <UnderCoverThreeIntros />
-                
             </div>
-            <CopyRight className='copy_right_home' />
         </div>
 
     );

@@ -45,7 +45,7 @@
     font-size: 1.7vw;
     background: white;
     height: 6vw;
-    width: 8vw;
+    width: 9vw;
     display: flex;
     align-items: center;
     justify-content: center; 
@@ -75,19 +75,19 @@
     text-decoration: underline;
 }
 
-.navbar_history {
+.navbar_competition {
     font-family: 'jf-open';
     color: #524f4f;
     font-size: 1.7vw;
     background: white;
     height: 6vw;
-    width: 10vw;
+    width: 8vw;
     display: flex;
     align-items: center;
     justify-content: center; 
 }
 
-.navbar_history:hover {
+.navbar_competition:hover {
     color: orange;
     cursor: pointer;
     text-decoration: underline;

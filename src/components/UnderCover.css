@@ -12,9 +12,15 @@
     src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
 }
 
+@font-face {
+    font-family: 'taipei';
+    src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
+}
+
 .three_intro_title {
-    font-family: 'jf-open';
+    font-family: 'taipei';
     font-size: 2vw;
+    letter-spacing: 0.1vw;
 }
 
 .scroll_down_gif {
@@ -42,7 +48,7 @@
     position: absolute;
     top: 28.5vw;
     left: 10vw;
-    font-family: 'jf-open';
+    font-family: 'taipei';
     font-size: 1.3vw;
 }
 
@@ -75,7 +81,7 @@
     position: absolute;
     top: 68vw;
     left: 59vw;
-    font-family: 'jf-open';
+    font-family: 'taipei';
     font-size: 1.3vw;
 }
 
@@ -100,6 +106,6 @@
 .third_intro_text {
     position: absolute;
     top: 94.5vw;
-    font-family: 'jf-open';
+    font-family: 'taipei';
     font-size: 1.3vw;
 }

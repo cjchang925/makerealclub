@@ -20,7 +20,7 @@ const CopyRight = (props) => {
         <div className='copy_right'>
             <FaRegCopyright size={windowSize.innerWidth * 0.01} className='copy_right_icon' style={{color: props.color}}/>
             <p className='copy_right_text' style={{color: props.color}}>
-                2022 NYCU Make Real Club
+                &nbsp;2022 NYCU Make Real Club
             </p>
         </div>
     );

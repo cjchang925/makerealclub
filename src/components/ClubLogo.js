@@ -10,9 +10,11 @@ const ClubLogo = () => {
             <Link to="/" style={{ textDecoration: 'none' }}>
                 <p className="navbar_home">首頁</p>
             </Link>
-            <p className="navbar_maker_camp">創客營</p>
+            <Link to="/maker_camp" style={{ textDecoration: 'none' }}>
+                <p className="navbar_maker_camp">創客營</p>
+            </Link>
             <p className="navbar_club_course">社課</p>
-            <p className="navbar_history">歷史沿革</p>
+            <p className="navbar_competition">競賽</p>
             <Link to="/contact_us" style={{ textDecoration: 'none' }} >
                 <p className="navbar_contact_us">聯絡我們</p>
             </Link>

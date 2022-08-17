@@ -1,0 +1,124 @@
+.maker_camp_cover {
+    height: 30vw;
+    position: absolute;
+    top: 6vw;
+    right: 0vw;
+    z-index: 1;
+}
+
+.maker_camp {
+    height: 175vh;
+}
+
+.maker_camp_title_back {
+    background-color: rgb(112, 48, 160);
+    height: 30vw;
+    width: 60vw;
+    position: absolute;
+    top: 6vw;
+    z-index: 1;
+}
+
+.maker_camp_title {
+    font-family: 'jf-open';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    top: 7vw;
+    left: 10vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.maker_camp_subtitle {
+    font-family: 'taipei';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    top: 13.5vw;
+    left: 10vw;
+    font-size: 1.5vw;
+    letter-spacing: 0.1vw;
+}
+
+.maker_camp_under_cover {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    position: absolute;
+    top: 36vw;
+}
+
+.maker_camp_description {
+    font-family: 'taipei';
+    position: absolute;
+    top: 1vw;
+    font-size: 2vw;
+    letter-spacing: 0.1vw;
+}
+
+.camp_scroll_down_gif {
+    position: absolute;
+    top: 7vw;
+    width: 5vw;
+}
+
+.camp_photo_2022 {
+    position: absolute;
+    height: 33vw;
+    overflow: hidden;
+    transform: scale(1, 1);
+    transition: all 0.7s ease-out;
+}
+
+.camp_photo_2022:hover {
+    transform: scale(1.07, 1.07);
+    
+}
+
+.maker_camp_2022 {
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    position: relative;
+    overflow: hidden;
+    top: 16vw;
+    height: 33vw;
+    background-color: white;
+}
+
+.maker_camp_2022:hover {
+    cursor: pointer;
+}
+
+.maker_camp_2022_title {
+    font-family: 'taipei';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    font-size: 2vw;
+    top: 1vw;
+    letter-spacing: 0.15vw;
+}
+
+.maker_camp_2022_subtitle {
+    font-family: 'jf-open';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    top: 4.5vw;
+    font-size: 1.25vw;
+    letter-spacing: 0.1vw;
+}
+
+@font-face {
+    font-family: 'jf-open';
+    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'google-fonts';
+    src: url('../fonts/cwTeXYen-zhonly.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'taipei';
+    src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
+}

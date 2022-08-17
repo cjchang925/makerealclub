@@ -93,7 +93,6 @@ const ContactUs = () => {
                     yating2357.ee10@nycu.edu.tw
                 </p>
             </div>
-            <CopyRight color='black' className='copy_right_contact'/>
         </div >
     );
 }
