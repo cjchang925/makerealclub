@@ -54,7 +54,7 @@ const ContactUs = () => {
                 </p>
                 */}
                 <p className="internet_manager_title">
-                    網頁管理
+                    網頁長
                 </p>
                 <hr className='internet_manager_separate_line' />
                 <p className="internet_manager_name">
