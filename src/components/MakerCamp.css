@@ -70,10 +70,10 @@
     transition: all 0.7s ease-out;
 }
 
-.camp_photo_2022:hover {
+.maker_camp_2022:hover .camp_photo_2022 {
     transform: scale(1.07, 1.07);
-    
 }
+
 
 .maker_camp_2022 {
     display: flex;
@@ -83,7 +83,6 @@
     overflow: hidden;
     top: 16vw;
     height: 33vw;
-    background-color: white;
 }
 
 .maker_camp_2022:hover {
@@ -116,4 +115,9 @@
 @font-face {
     font-family: 'taipei';
     src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
+}
+
+.img_link {
+    position: absolute;
+    left: 0vw;
 }

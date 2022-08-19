@@ -3,7 +3,7 @@ import gif from '../videos/arrow.gif'
 import photo from '../pictures/camp_post.jpg'
 import coursePhoto from '../pictures/club_course.jpg'
 import competitionPhoto from '../pictures/competition.jpg'
-
+import { Link } from "react-router-dom";
 const UnderCoverThreeIntros = () => {
     return (
         <div className='under_cover_three_intro'>
@@ -12,9 +12,11 @@ const UnderCoverThreeIntros = () => {
             </h2>
             <img src={gif} alt='scroll down' className='scroll_down_gif' />
             <img src={photo} alt='camp photo' className='camp_photo' />
-            <h3 className='first_intro_title'>
-                創客營
-            </h3>
+            <Link to="/maker-camp" className='maker_camp_link'>
+                <h3 className='first_intro_title'>
+                    創客營
+                </h3>
+            </Link>
             <p className='first_intro_text'>
                 每年寒暑假在交大舉辦，為期數天，包含24小時黑客松。
             </p>

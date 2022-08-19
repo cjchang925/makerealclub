@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: left; 
     height: 6vw;
+    background-color: #eeeeee;
 }
 
 .title {
@@ -16,7 +17,7 @@
 /* each width 180px */
 
 .space_word {
-    background-color: white;
+    background-color: #eeeeee;
     height: 6vw;
     width: 9vw;
 }
@@ -25,7 +26,7 @@
     font-family: 'jf-open';
     color: #524f4f;
     font-size: 1.7vw;
-    background: white;
+    background: #eeeeee;
     height: 6vw;
     width: 8vw;
     display: flex;
@@ -43,7 +44,7 @@
     font-family: 'jf-open';
     color: #524f4f;
     font-size: 1.7vw;
-    background: white;
+    background: #eeeeee;
     height: 6vw;
     width: 9vw;
     display: flex;
@@ -61,7 +62,7 @@
     font-family: 'jf-open';
     color: #524f4f;
     font-size: 1.7vw;
-    background: white;
+    background: #eeeeee;
     height: 6vw;
     width: 8vw;
     display: flex;
@@ -79,7 +80,7 @@
     font-family: 'jf-open';
     color: #524f4f;
     font-size: 1.7vw;
-    background: white;
+    background: #eeeeee;
     height: 6vw;
     width: 8vw;
     display: flex;
@@ -97,7 +98,7 @@
     font-family: 'jf-open';
     color: #524f4f;
     font-size: 1.7vw;
-    background: white;
+    background: #eeeeee;
     height: 6vw;
     width: 10vw;
     display: flex;

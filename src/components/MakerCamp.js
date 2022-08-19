@@ -3,6 +3,7 @@ import ClubLogo from './ClubLogo'
 import './MakerCamp.css'
 import gif from '../videos/arrow.gif'
 import campPhoto from '../pictures/2022makercamp.jpg'
+import { Link } from 'react-router-dom'
 
 const MakerCamp = () => {
     return (
@@ -23,14 +24,15 @@ const MakerCamp = () => {
                 </h2>
                 <img src={gif} alt='scroll down' className='camp_scroll_down_gif' />
                 <div className='maker_camp_2022'>
-                    <img src={campPhoto} alt='2022 camp photo' className='camp_photo_2022' />
+                    <Link to="/maker-camp/maker-camp-2022-summer" className='img_link'>
+                        <img src={campPhoto} alt='2022 camp photo' className='camp_photo_2022' />
+                    </Link>
                     <h3 className='maker_camp_2022_title'>
                         2022暑假創客電機營
                     </h3>
                     <p className='maker_camp_2022_subtitle'>
                         2022/8/1-2022/8/4 @ 陽明交大
                     </p>
-                    
                 </div>
             </div>
             

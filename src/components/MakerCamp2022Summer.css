@@ -1,0 +1,318 @@
+.camp_2022_cover_video {
+    height: 27.9vw;
+    position: absolute;
+    right: 0vw;
+}
+
+.club_logo {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.maker_camp_2022_summer {
+    height: 27.9vw;
+    position: absolute;
+    background-color: #16236e;
+    top: 6vw;
+    width: 100%;
+}
+
+.maker_camp_2022_summer_outside {
+    height: 188vw;
+}
+
+.maker_camp_2022_summer_title {
+    color: #dddddd;
+    font-family: 'jf-open';
+    font-size: 3vw;
+    position: absolute;
+    top: 7vw;
+    letter-spacing: 0.15vw;
+    left: 9vw;
+}
+
+.maker_camp_2022_summer_subtitle {
+    font-family: 'jf-open';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    top: 13vw;
+    font-size: 1.5vw;
+    left: 9vw;
+    letter-spacing: 0.11vw;
+}
+
+@font-face {
+    font-family: 'jf-open';
+    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'taipei';
+    src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
+}
+
+.courses {
+    background-color: orange;
+    width: 100%;
+    height: 154vw;
+    position: absolute;
+    top: 33.9vw;
+    display: flex;
+    justify-content: center;
+}
+
+.courses_title {
+    font-size: 3vw;
+    color: #222222;
+    font-family: 'jf-open';
+    position: absolute;
+    top: 1vw;
+}
+
+.basic_programming_picture {
+    height: 20vw;
+    position: absolute;
+    top: 13vw;
+    left: 8vw;
+}
+
+.basic_programming_card {
+    position: absolute;
+    height: 5vw;
+    width: 15vw;
+    top: 35vw;
+    left: 18vw;
+    background-color: #16236e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.basic_programming_card:hover {
+    background-color: #4b589e;
+}
+
+.basic_programming_link {
+    text-decoration: none;
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.5vw;
+}
+
+.basic_eletronics_picture {
+    height: 20vw;
+    position: absolute;
+    top: 13vw;
+    left: 56vw;
+}
+
+.basic_eletronics_card {
+    position: absolute;
+    height: 5vw;
+    width: 15vw;
+    top: 35vw;
+    left: 66vw;
+    background-color: #16236e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.basic_eletronics_link {
+    text-decoration: none;
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.5vw;
+    font-family: 'jf-open';
+}
+
+.basic_eletronics_card:hover {
+    background-color: #4b589e;
+}
+
+.super_eletronics_picture {
+    height: 20vw;
+    position: absolute;
+    top: 48vw;
+    left: 8vw;
+}
+
+.super_eletronics_card {
+    position: absolute;
+    height: 5vw;
+    width: 15vw;
+    top: 70vw;
+    left: 18vw;
+    background-color: #16236e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.super_eletronics_link {
+    text-decoration: none;
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.5vw;
+    font-family: 'jf-open';
+}
+
+.super_eletronics_card:hover {
+    background-color: #4b589e;
+}
+
+.player_programming_picture {
+    height: 20vw;
+    position: absolute;
+    top: 48vw;
+    left: 56vw;
+}
+
+.player_programming_card {
+    position: absolute;
+    height: 5vw;
+    width: 15vw;
+    top: 70vw;
+    left: 66vw;
+    background-color: #16236e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.player_programming_link {
+    text-decoration: none;
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.5vw;
+    font-family: 'jf-open';
+}
+
+.player_programming_card:hover {
+    background-color: #4b589e;
+}
+
+.player_welding_picture {
+    height: 20vw;
+    position: absolute;
+    top: 83vw;
+    left: 8vw;
+}
+
+.player_welding_card {
+    position: absolute;
+    height: 5vw;
+    width: 15vw;
+    top: 105vw;
+    left: 18vw;
+    background-color: #16236e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.player_welding_link {
+    text-decoration: none;
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.5vw;
+    font-family: 'jf-open';
+}
+
+.player_welding_card:hover {
+    background-color: #4b589e;
+}
+
+.computer_thinking_picture {
+    height: 20vw;
+    position: absolute;
+    top: 83vw;
+    left: 56vw;
+}
+
+.computer_thinking_card {
+    position: absolute;
+    height: 5vw;
+    width: 15vw;
+    top: 105vw;
+    left: 66vw;
+    background-color: #16236e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.computer_thinking_link {
+    text-decoration: none;
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.5vw;
+    font-family: 'jf-open';
+}
+
+.computer_thinking_card:hover {
+    background-color: #4b589e;
+}
+
+.ppt_picture {
+    height: 20vw;
+    position: absolute;
+    top: 118vw;
+    left: 8vw;
+}
+
+.ppt_card {
+    position: absolute;
+    height: 5vw;
+    width: 15vw;
+    top: 140vw;
+    left: 18vw;
+    background-color: #16236e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ppt_link {
+    text-decoration: none;
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.5vw;
+    font-family: 'jf-open';
+}
+
+.ppt_card:hover {
+    background-color: #4b589e;
+}
+
+.brainstorming_picture {
+    height: 20vw;
+    position: absolute;
+    top: 118vw;
+    left: 56vw;
+}
+
+.brainstorming_card {
+    position: absolute;
+    height: 5vw;
+    width: 15vw;
+    top: 140vw;
+    left: 66vw;
+    background-color: #16236e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brainstorming_link {
+    text-decoration: none;
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.5vw;
+    font-family: 'jf-open';
+}
+
+.brainstorming_card:hover {
+    background-color: #4b589e;
+}

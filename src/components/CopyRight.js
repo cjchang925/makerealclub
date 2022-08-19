@@ -1,24 +1,10 @@
-import { FaRegCopyright } from 'react-icons/fa'
-import { useEffect, useState } from "react";
 import './CopyRight.css'
+import copyrighticon from '../pictures/copyright.png'
+
 const CopyRight = (props) => {
-    const [windowSize, setWindowSize] = useState(getWindowSize());
-
-    useEffect(() => {
-        function handleWindowResize() {
-            setWindowSize(getWindowSize());
-        }
-
-        window.addEventListener('resize', handleWindowResize);
-
-        return () => {
-            window.removeEventListener('resize', handleWindowResize);
-        };
-    }, []);
-
     return (
         <div className='copy_right'>
-            <FaRegCopyright size={windowSize.innerWidth * 0.01} className='copy_right_icon' style={{color: props.color}}/>
+            <img src={copyrighticon} alt='icon' className='copy_right_icon' />
             <p className='copy_right_text' style={{color: props.color}}>
                 &nbsp;2022 NYCU Makereal Labs
             </p>
@@ -27,8 +13,3 @@ const CopyRight = (props) => {
 }
 
 export default CopyRight;
-
-function getWindowSize() {
-    const { innerWidth, innerHeight } = window;
-    return { innerWidth, innerHeight };
-}
