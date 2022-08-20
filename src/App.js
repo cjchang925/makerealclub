@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './Home';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import ContactUs from './components/ContactUs';
 import MakerCamp from './components/MakerCamp';
 import CopyRight from './components/CopyRight';

@@ -81,6 +81,20 @@ const ContactUs = () => {
                 <p className="teaching_leader_email">
                     williamchiu.ee10@nycu.edu.tw
                 </p>
+                <p className="teaching_leader2_name">
+                    林佑儒
+                </p>
+                <HiOutlineMail size={windowSize.innerWidth * 0.021} className='teaching_leader2_email_icon' />
+                <p className="teaching_leader2_email">
+                    danny92419@gmail.com
+                </p>
+                <p className="teaching_leader3_name">
+                    徐培哲
+                </p>
+                <HiOutlineMail size={windowSize.innerWidth * 0.021} className='teaching_leader3_email_icon' />
+                <p className="teaching_leader3_email">
+                    25425108a@gmail.com
+                </p>
                 <p className="PR_title">
                     公關
                 </p>
@@ -91,6 +105,60 @@ const ContactUs = () => {
                 <HiOutlineMail size={windowSize.innerWidth * 0.021} className='PR_email_icon' />
                 <p className="PR_email">
                     yating2357.ee10@nycu.edu.tw
+                </p>
+                <p className="PR2_name">
+                    楊千芊
+                </p>
+                <HiOutlineMail size={windowSize.innerWidth * 0.021} className='PR2_email_icon' />
+                <p className="PR2_email">
+                    vivia700018.c@nycu.edu.tw
+                </p>
+                <p className="PR3_name">
+                    黃哲筠
+                </p>
+                <HiOutlineMail size={windowSize.innerWidth * 0.021} className='PR3_email_icon' />
+                <p className="PR3_email">
+                    coco20030323.ee10@nycu.edu.tw
+                </p>
+                <p className="AD_title">
+                    美宣
+                </p>
+                <hr className='AD_separate_line' />
+                <p className="AD_name">
+                    林詩軒
+                </p>
+                <HiOutlineMail size={windowSize.innerWidth * 0.021} className='AD_email_icon' />
+                <p className="AD_email">
+                    heidi10321@gmail.com
+                </p>
+                <p className="doc_title">
+                    文書
+                </p>
+                <hr className='doc_separate_line' />
+                <p className="doc_name">
+                    許家綺
+                </p>
+                <HiOutlineMail size={windowSize.innerWidth * 0.021} className='doc_email_icon' />
+                <p className="doc_email">
+                    c109700019.mg09@nycu.edu.tw
+                </p>
+                <p className="GA_title">
+                    總務
+                </p>
+                <hr className='GA_separate_line' />
+                <p className="GA_name">
+                    謝佳蓁
+                </p>
+                <HiOutlineMail size={windowSize.innerWidth * 0.021} className='GA_email_icon' />
+                <p className="GA_email">
+                    alina23163878@gmail.com
+                </p>
+                <p className="GA2_name">
+                    胡珩秀
+                </p>
+                <HiOutlineMail size={windowSize.innerWidth * 0.021} className='GA2_email_icon' />
+                <p className="GA2_email">
+                    derekpigg.ee10@nycu.edu.tw
                 </p>
             </div>
         </div >

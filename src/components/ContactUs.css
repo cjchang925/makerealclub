@@ -63,7 +63,7 @@
 
 .contact_people {
     background-color: white;
-    height: 45vw;
+    height: 103vw;
 }
 
 .chairperson_title {
@@ -135,7 +135,7 @@
     background: #16236e;
 }
 
-.internet_manager_title {
+.PR_title {
     font-family: 'jf-open';
     font-size: 2.5vw;
     position: absolute;
@@ -146,7 +146,7 @@
     line-height: 2vw;
 }
 
-.internet_manager_separate_line {
+.PR_separate_line {
     color: #16236e;
     border-color: #16236e;
     width: 20vw;
@@ -157,7 +157,7 @@
     background: #16236e;
 }
 
-.internet_manager_name {
+.PR_name {
     font-family: 'jf-open';
     font-size: 2vw;
     position: absolute;
@@ -168,18 +168,76 @@
     line-height: 2vw;
 }
 
-.internet_manager_email_icon {
+.PR_email_icon {
     position: absolute;
     top: 91vw;
     left: 55vw;
     color: #16236e;
 }
 
-.internet_manager_email {
+.PR_email {
     font-family: 'jf-open';
     font-size: 1.5vw;
     position: absolute;
     top: 88.5vw;
+    left: 58vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
+}
+
+.PR2_name {
+    font-family: 'jf-open';
+    font-size: 2vw;
+    position: absolute;
+    top: 94vw;
+    left: 55vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.PR2_email_icon {
+    position: absolute;
+    top: 99vw;
+    left: 55vw;
+    color: #16236e;
+}
+
+.PR2_email {
+    font-family: 'jf-open';
+    font-size: 1.5vw;
+    position: absolute;
+    top: 96.5vw;
+    left: 58vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
+}
+
+.PR3_name {
+    font-family: 'jf-open';
+    font-size: 2vw;
+    position: absolute;
+    top: 102vw;
+    left: 55vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.PR3_email_icon {
+    position: absolute;
+    top: 107vw;
+    left: 55vw;
+    color: #16236e;
+}
+
+.PR3_email {
+    font-family: 'jf-open';
+    font-size: 1.5vw;
+    position: absolute;
+    top: 104.5vw;
     left: 58vw;
     color: #16236e;
     letter-spacing: 0.1vw;
@@ -237,7 +295,65 @@
     line-height: 4vw;
 }
 
-.PR_title {
+.teaching_leader2_name {
+    font-family: 'jf-open';
+    font-size: 2vw;
+    position: absolute;
+    top: 94vw;
+    left: 5vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.teaching_leader2_email_icon {
+    position: absolute;
+    top: 99vw;
+    left: 5vw;
+    color: #16236e;
+}
+
+.teaching_leader2_email {
+    font-family: 'jf-open';
+    font-size: 1.5vw;
+    position: absolute;
+    top: 96.5vw;
+    left: 8vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
+}
+
+.teaching_leader3_name {
+    font-family: 'jf-open';
+    font-size: 2vw;
+    position: absolute;
+    top: 102vw;
+    left: 5vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.teaching_leader3_email_icon {
+    position: absolute;
+    top: 107vw;
+    left: 5vw;
+    color: #16236e;
+}
+
+.teaching_leader3_email {
+    font-family: 'jf-open';
+    font-size: 1.5vw;
+    position: absolute;
+    top: 104.5vw;
+    left: 8vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
+}
+
+.internet_manager_title {
     font-family: 'jf-open';
     font-size: 2.5vw;
     position: absolute;
@@ -248,7 +364,7 @@
     line-height: 2vw;
 }
 
-.PR_separate_line {
+.internet_manager_separate_line {
     color: #16236e;
     border-color: #16236e;
     width: 20vw;
@@ -259,7 +375,7 @@
     background: #16236e;
 }
 
-.PR_name {
+.internet_manager_name {
     font-family: 'jf-open';
     font-size: 2vw;
     position: absolute;
@@ -270,14 +386,14 @@
     line-height: 2vw;
 }
 
-.PR_email_icon {
+.internet_manager_email_icon {
     position: absolute;
     top: 71vw;
     left: 55vw;
     color: #16236e;
 }
 
-.PR_email {
+.internet_manager_email {
     font-family: 'jf-open';
     font-size: 1.5vw;
     position: absolute;
@@ -293,3 +409,184 @@
     src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
 }
 
+.AD_title {
+    font-family: 'jf-open';
+    font-size: 2.5vw;
+    position: absolute;
+    top: 116vw;
+    left: 5vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.AD_separate_line {
+    color: #16236e;
+    border-color: #16236e;
+    width: 20vw;
+    height: 0.2vw;
+    position: absolute;
+    left: 5vw;
+    top: 121.6vw;
+    background: #16236e;
+}
+
+.AD_name {
+    font-family: 'jf-open';
+    font-size: 2vw;
+    position: absolute;
+    top: 122vw;
+    left: 5vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.AD_email_icon {
+    position: absolute;
+    top: 127vw;
+    left: 5vw;
+    color: #16236e;
+}
+
+.AD_email {
+    font-family: 'jf-open';
+    font-size: 1.5vw;
+    position: absolute;
+    top: 124.5vw;
+    left: 8vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
+}
+
+.doc_title {
+    font-family: 'jf-open';
+    font-size: 2.5vw;
+    position: absolute;
+    top: 136vw;
+    left: 5vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.doc_separate_line {
+    color: #16236e;
+    border-color: #16236e;
+    width: 20vw;
+    height: 0.2vw;
+    position: absolute;
+    left: 5vw;
+    top: 141.6vw;
+    background: #16236e;
+}
+
+.doc_name {
+    font-family: 'jf-open';
+    font-size: 2vw;
+    position: absolute;
+    top: 142vw;
+    left: 5vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.doc_email_icon {
+    position: absolute;
+    top: 147vw;
+    left: 5vw;
+    color: #16236e;
+}
+
+.doc_email {
+    font-family: 'jf-open';
+    font-size: 1.5vw;
+    position: absolute;
+    top: 144.5vw;
+    left: 8vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
+}
+
+.GA_title {
+    font-family: 'jf-open';
+    font-size: 2.5vw;
+    position: absolute;
+    top: 116vw;
+    left: 55vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.GA_separate_line {
+    color: #16236e;
+    border-color: #16236e;
+    width: 20vw;
+    height: 0.2vw;
+    position: absolute;
+    left: 55vw;
+    top: 121.6vw;
+    background: #16236e;
+}
+
+.GA_name {
+    font-family: 'jf-open';
+    font-size: 2vw;
+    position: absolute;
+    top: 122vw;
+    left: 55vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.GA_email_icon {
+    position: absolute;
+    top: 127vw;
+    left: 55vw;
+    color: #16236e;
+}
+
+.GA_email {
+    font-family: 'jf-open';
+    font-size: 1.5vw;
+    position: absolute;
+    top: 124.5vw;
+    left: 58vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
+}
+
+.GA2_name {
+    font-family: 'jf-open';
+    font-size: 2vw;
+    position: absolute;
+    top: 130vw;
+    left: 55vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
+}
+
+.GA2_email_icon {
+    position: absolute;
+    top: 135vw;
+    left: 55vw;
+    color: #16236e;
+}
+
+.GA2_email {
+    font-family: 'jf-open';
+    font-size: 1.5vw;
+    position: absolute;
+    top: 132.5vw;
+    left: 58vw;
+    color: #16236e;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
+}
