@@ -5,7 +5,9 @@ const ClubLogo = () => {
     return (
         <div className="club_logo">
             <img style={{ marginLeft: "2vw", height: "4vw", width: "auto" }} src={logo} alt="club_logo" />
-            <h1 className="title">國立陽明交通大學 創客俱樂部</h1>
+            <Link to="/" style={{ textDecoration: 'none' }}>
+                <h1 className="title">國立陽明交通大學 創客俱樂部</h1>
+            </Link>
             <p className="space_word"></p>
             <Link to="/" style={{ textDecoration: 'none' }}>
                 <p className="navbar_home">首頁</p>

@@ -19,7 +19,7 @@
 }
 
 .maker_camp_2022_summer_outside {
-    height: 188vw;
+    height: 599vw;
 }
 
 .maker_camp_2022_summer_title {
@@ -315,4 +315,397 @@
 
 .brainstorming_card:hover {
     background-color: #4b589e;
+}
+
+.hackathon {
+    height: 411vw;
+    width: 100%;
+    position: absolute;
+    top: 187.9vw;
+    display: flex;
+    justify-content: center;
+    background-color: #39250b;
+}
+
+.camp_2022_hackathon_cover_video {
+    width: 100%;
+    position: absolute;
+    left: 0vw;
+}
+
+.hackathon_title_card {
+    border-top: 20vw solid rgba(77, 0, 0, 0.9);
+    border-right: 40vw solid transparent;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
+}
+
+.hackathon_title {
+    font-size: 3vw;
+    color: #dddddd;
+    font-family: 'jf-open';
+    position: absolute;
+    top: -0.5vw;
+    width: 30vw;
+    left: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.hackathon_subtitle {
+    font-size: 1.56vw;
+    color: #dddddd;
+    font-family: 'jf-open';
+    position: absolute;
+    top: 5.5vw;
+    width: 30vw;
+    left: 3vw;
+    letter-spacing: 0.1vw;
+}
+
+.hackathon_demo_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 26vw;
+    letter-spacing: 0.3vw;
+}
+
+.team1 {
+    width: 100%;
+    height: 39vw;
+    background-color: #734b1a;
+    position: absolute;
+    top: 35vw;
+    display: flex;
+    align-items: center;
+}
+
+.team1_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 10vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team1_photo {
+    width: 29vw;
+    position: absolute;
+    right: 10vw;
+}
+
+.team1_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 16vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team2_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 85vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team2_photo {
+    width: 29vw;
+    position: absolute;
+    top: 80vw;
+    right: 10vw;
+}
+
+.team2_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 91vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team3 {
+    width: 100%;
+    height: 35vw;
+    background-color: #734b1a;
+    position: absolute;
+    top: 117vw;
+    display: flex;
+    align-items: center;
+}
+
+.team3_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 8vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team3_photo {
+    width: 32vw;
+    position: absolute;
+    right: 8.5vw;
+}
+
+.team3_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 14vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team4_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 160vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team4_photo1 {
+    height: 20vw;
+    position: absolute;
+    top: 160vw;
+    right: 25vw;
+}
+
+.team4_photo2 {
+    height: 20vw;
+    position: absolute;
+    top: 160vw;
+    right: 8vw;
+}
+
+.team4_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 166vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team5 {
+    width: 100%;
+    height: 35vw;
+    background-color: #734b1a;
+    position: absolute;
+    top: 188vw;
+    display: flex;
+    align-items: center;
+}
+
+.team5_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 9vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team5_photo {
+    width: 32vw;
+    position: absolute;
+    right: 8.5vw;
+}
+
+.team5_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 15vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team6_video {
+    width: 32vw;
+    position: absolute;
+    top: 231vw;
+    right: 8.5vw;
+}
+
+.team6_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 230vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team6_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 236vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team7 {
+    width: 100%;
+    height: 35vw;
+    background-color: #734b1a;
+    position: absolute;
+    top: 257vw;
+    display: flex;
+    align-items: center;
+}
+
+.team7_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 9vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team7_photo1 {
+    width: 16vw;
+    position: absolute;
+    right: 8vw;
+}
+
+.team7_photo2 {
+    width: 16vw;
+    position: absolute;
+    right: 25vw;
+}
+
+.team7_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 15vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team8_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 300vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team8_photo {
+    width: 29vw;
+    position: absolute;
+    top: 299vw;
+    right: 10vw;
+}
+
+.team8_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 306vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team9 {
+    width: 100%;
+    height: 35vw;
+    background-color: #734b1a;
+    position: absolute;
+    top: 328vw;
+    display: flex;
+    align-items: center;
+}
+
+.team9_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 8vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team9_photo {
+    width: 32vw;
+    position: absolute;
+    right: 8.5vw;
+}
+
+.team9_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 14vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
+}
+
+.team10_video {
+    width: 29vw;
+    position: absolute;
+    top: 368vw;
+    right: 10vw;
+}
+
+.team10_title {
+    font-size: 2.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 378vw;
+    left: 10vw;
+    letter-spacing: 0.2vw;
+}
+
+.team10_subtitle {
+    font-size: 1.5vw;
+    color: #dddddd;
+    font-family: 'taipei';
+    position: absolute;
+    top: 384vw;
+    left: 10vw;
+    letter-spacing: 0.15vw;
+    line-height: 3vw;
 }
