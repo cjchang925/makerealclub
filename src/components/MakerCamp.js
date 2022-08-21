@@ -25,7 +25,7 @@ const MakerCamp = () => {
                 <img src={gif} alt='scroll down' className='camp_scroll_down_gif' />
                 <div className='maker_camp_2022'>
                     <Link to="/maker-camp/maker-camp-2022-summer" className='img_link'>
-                        <img src={campPhoto} alt='2022 camp photo' className='camp_photo_2022' />
+                        <img src={campPhoto} alt='2022 camp' className='camp_photo_2022' />
                     </Link>
                     <h3 className='maker_camp_2022_title'>
                         2022暑假創客電機營

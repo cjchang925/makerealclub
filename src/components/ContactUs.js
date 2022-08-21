@@ -2,7 +2,6 @@ import ClubLogo from "./ClubLogo";
 import './ContactUs.css';
 import { HiOutlineMail } from 'react-icons/hi'
 import { useEffect, useState } from "react";
-import CopyRight from "./CopyRight";
 
 const ContactUs = () => {
     const [windowSize, setWindowSize] = useState(getWindowSize());

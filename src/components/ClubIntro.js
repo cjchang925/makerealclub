@@ -1,5 +1,5 @@
 import './ClubIntro.css'
-import video from '../videos/newcover.mp4'
+import video from '../videos/homecover.mp4'
 import React, { useEffect, useRef } from "react";
 import "../../node_modules/video-react/dist/video-react.css";
 
