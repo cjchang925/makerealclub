@@ -1,2 +1,2 @@
-# NYCU Make Real Club Official Website
+# NYCU Makereal Labs Official Website
 
