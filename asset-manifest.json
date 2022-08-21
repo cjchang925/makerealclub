@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.56ef7200.css",
-    "main.js": "/static/js/main.e92b66cd.js",
+    "main.css": "/static/css/main.fce0dc64.css",
+    "main.js": "/static/js/main.291e95a7.js",
     "static/js/787.3dd3f24c.chunk.js": "/static/js/787.3dd3f24c.chunk.js",
     "static/media/TaipeiSansTCBeta-Regular.ttf": "/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
-    "static/media/makercamp2022cover.mp4": "/static/media/makercamp2022cover.c88f202b307fb10abf25.mp4",
+    "static/media/makercamp2022cover.mp4": "/static/media/makercamp2022cover.2b9956e31d58ecf0d712.mp4",
     "static/media/GenJyuuGothic-Regular.ttf": "/static/media/GenJyuuGothic-Regular.e201ca409c084f1ec671.ttf",
-    "static/media/newcover.mp4": "/static/media/newcover.b98bf8b2245f7c4c8044.mp4",
+    "static/media/homecover.mp4": "/static/media/homecover.767905cf66ff0ad03970.mp4",
     "static/media/team8.JPG": "/static/media/team8.fab9fa11e061e96e4ee0.JPG",
     "static/media/camp_cover.png": "/static/media/camp_cover.8c2e842e4af10a3b1656.png",
+    "static/media/hackathoncover.mp4": "/static/media/hackathoncover.7b4345ec7a2afd9cfffb.mp4",
     "static/media/team5.png": "/static/media/team5.1e4f69434080773002da.png",
-    "static/media/hackathoncover.mp4": "/static/media/hackathoncover.e19d5cf8f622691240ff.mp4",
     "static/media/team4-2.png": "/static/media/team4-2.21f8cb8bdb8be2616c43.png",
     "static/media/team10.mp4": "/static/media/team10.f6f4148f50101c745bec.mp4",
     "static/media/team4-1.png": "/static/media/team4-1.fb0635d2fe2ccbf14e4b.png",
@@ -37,12 +37,12 @@
     "static/media/copyright.png": "/static/media/copyright.8878c5832adfc8a04c28.png",
     "static/media/team7-1.jpg": "/static/media/team7-1.4617be57acf0f877bb58.jpg",
     "index.html": "/index.html",
-    "main.56ef7200.css.map": "/static/css/main.56ef7200.css.map",
-    "main.e92b66cd.js.map": "/static/js/main.e92b66cd.js.map",
+    "main.fce0dc64.css.map": "/static/css/main.fce0dc64.css.map",
+    "main.291e95a7.js.map": "/static/js/main.291e95a7.js.map",
     "787.3dd3f24c.chunk.js.map": "/static/js/787.3dd3f24c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56ef7200.css",
-    "static/js/main.e92b66cd.js"
+    "static/css/main.fce0dc64.css",
+    "static/js/main.291e95a7.js"
   ]
 }
