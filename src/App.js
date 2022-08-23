@@ -7,6 +7,7 @@ import CopyRight from './components/CopyRight';
 import './App.css'
 import ScrollToTop from './components/ScrollToTop';
 import MakerCamp2022 from './components/MakerCamp2022Summer';
+import ClubCourse from './components/ClubCourse';
 
 const App = () => {
     return (
@@ -18,6 +19,7 @@ const App = () => {
                     <Route path="/contact-us" element={<ContactUs />} />
                     <Route path="/maker-camp" element={<MakerCamp />} />
                     <Route path="/maker-camp/maker-camp-2022-summer" element={<MakerCamp2022 />} />
+                    <Route path="/club-course" element={<ClubCourse />} />
                 </Routes>
             </Router>
             <CopyRight color='black' className='copy_right_app' />

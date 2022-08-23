@@ -73,6 +73,9 @@
 .maker_camp_2022:hover .camp_photo_2022 {
     transform: scale(1.07, 1.07);
 }
+.maker_camp_2022:hover .maker_camp_2022_title {
+    text-decoration: underline;
+}
 
 
 .maker_camp_2022 {

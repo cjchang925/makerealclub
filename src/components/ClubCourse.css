@@ -1,0 +1,123 @@
+.club_course_whole_page {
+    height: 82vw;
+}
+
+.cover {
+    height: 30vw;
+    background-color: rgb(60, 78, 168);
+}
+
+.cover_photo {
+    position: absolute;
+    right: 0vw;
+    height: 30vw;
+}
+
+.cover_title {
+    font-family: 'jf-open';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    top: 13vw;
+    left: 10vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+@font-face {
+    font-family: 'jf-open';
+    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'taipei';
+    src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
+}
+
+.cover_subtitle {
+    font-family: 'taipei';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    top: 19.5vw;
+    left: 10vw;
+    font-size: 1.5vw;
+    letter-spacing: 0.1vw;
+}
+
+.under_cover {
+    height: 16vw;
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+    font-family: 'taipei';
+    position: absolute;
+    top: 37vw;
+    font-size: 2vw;
+    letter-spacing: 0.1vw;
+    z-index: 3;
+}
+
+.scroll_down_gif {
+    position: absolute;
+    top: 43vw;
+    width: 5vw;
+}
+
+.player_course {
+    height: 30vw;
+    background-color: #F1E1FF;
+    display: flex;
+    align-items: center;
+}
+
+.player_photo {
+    width: 36vw;
+    position: absolute;
+    right: 6vw;
+
+}
+
+.player_title {
+    font-family: 'jf-open';
+    position: absolute;
+    top: 56vw;
+    left: 10vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.player_subtitle {
+    position: absolute;
+    top: 63vw;
+    left: 10vw;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+    letter-spacing: 0.1vw;
+    line-height: 3vw;
+}
+
+.learn_more_semicircle {
+    height: 5rem;
+    width: 12rem;
+    border-radius: 5rem 5rem 5rem 5rem;
+    position: absolute;
+    top: 72vw;
+    left: 10vw;
+    background-color: #16236e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.learn_more_semicircle:hover {
+    background-color: #4b589e;
+    cursor: pointer;
+}
+
+.learn_more_text {
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+}
+
