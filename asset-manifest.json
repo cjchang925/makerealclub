@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.12d3d296.css",
-    "main.js": "/static/js/main.6d7976a7.js",
+    "main.css": "/static/css/main.0c33659d.css",
+    "main.js": "/static/js/main.68ccd3a0.js",
     "static/js/787.3dd3f24c.chunk.js": "/static/js/787.3dd3f24c.chunk.js",
     "static/media/TaipeiSansTCBeta-Regular.ttf": "/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
     "static/media/makercamp2022cover.mp4": "/static/media/makercamp2022cover.2b9956e31d58ecf0d712.mp4",
@@ -26,25 +26,27 @@
     "static/media/welding.png": "/static/media/welding.9a79265e1e69798263dd.png",
     "static/media/competition.jpg": "/static/media/competition.0ce3efcceef370cd9c91.jpg",
     "static/media/computerthinking.png": "/static/media/computerthinking.a9de32f0f2dc766adefb.png",
+    "static/media/player.jpg": "/static/media/player.e49d2fe9b975f564fbfc.jpg",
     "static/media/basicprogramming.png": "/static/media/basicprogramming.40ba950fafd65fda06d2.png",
     "static/media/playerprogramming.png": "/static/media/playerprogramming.fc7960deed067ff20fd8.png",
     "static/media/brainstorming.png": "/static/media/brainstorming.f8bc276826ca88649ee6.png",
     "static/media/team2.jpg": "/static/media/team2.a622192c71b73653a41e.jpg",
     "static/media/arrow.gif": "/static/media/arrow.874ed242212456a70b98.gif",
     "static/media/club_course.jpg": "/static/media/club_course.4d6e7ad765fdd30be0cd.jpg",
+    "static/media/notion_course.jpg": "/static/media/notion_course.4d6e7ad765fdd30be0cd.jpg",
     "static/media/team3.jpg": "/static/media/team3.1b3800e94b0335b6a7be.jpg",
-    "static/media/player.jpg": "/static/media/player.650af7691e9c66c12e3b.jpg",
     "static/media/team9.jpg": "/static/media/team9.1039f480b851bd2ff479.jpg",
+    "static/media/clock.jpg": "/static/media/clock.82dd07aefa597883878e.jpg",
     "static/media/team7-2.jpg": "/static/media/team7-2.47b3ef8b0c2b482fd7dc.jpg",
     "static/media/copyright.png": "/static/media/copyright.8878c5832adfc8a04c28.png",
     "static/media/team7-1.jpg": "/static/media/team7-1.4617be57acf0f877bb58.jpg",
     "index.html": "/index.html",
-    "main.12d3d296.css.map": "/static/css/main.12d3d296.css.map",
-    "main.6d7976a7.js.map": "/static/js/main.6d7976a7.js.map",
+    "main.0c33659d.css.map": "/static/css/main.0c33659d.css.map",
+    "main.68ccd3a0.js.map": "/static/js/main.68ccd3a0.js.map",
     "787.3dd3f24c.chunk.js.map": "/static/js/787.3dd3f24c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12d3d296.css",
-    "static/js/main.6d7976a7.js"
+    "static/css/main.0c33659d.css",
+    "static/js/main.68ccd3a0.js"
   ]
 }
