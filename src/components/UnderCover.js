@@ -4,13 +4,14 @@ import photo from '../pictures/camp_post.jpg'
 import coursePhoto from '../pictures/club_course.jpg'
 import competitionPhoto from '../pictures/competition.jpg'
 import { Link } from "react-router-dom";
+
 const UnderCoverThreeIntros = () => {
     return (
         <div className='under_cover_three_intro'>
             <h2 className="three_intro_title">
                 舉辦各種活動，傳承創客精神
             </h2>
-            <img src={gif} alt='scroll down' className='scroll_down_gif' />
+            <img src={gif} alt='scroll down' className='home_scroll_down_gif' />
             <img src={photo} alt='camp' className='camp_photo' />
             <Link to="/maker-camp" className='maker_camp_link'>
                 <h3 className='first_intro_title'>

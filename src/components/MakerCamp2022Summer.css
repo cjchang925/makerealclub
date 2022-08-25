@@ -81,6 +81,7 @@
     position: absolute;
     height: 5vw;
     width: 15vw;
+    border-radius: 5rem 5rem 5rem 5rem;
     top: 35vw;
     left: 18vw;
     background-color: #16236e;
@@ -111,6 +112,7 @@
     position: absolute;
     height: 5vw;
     width: 15vw;
+    border-radius: 5rem 5rem 5rem 5rem;
     top: 35vw;
     left: 66vw;
     background-color: #16236e;
@@ -142,6 +144,7 @@
     position: absolute;
     height: 5vw;
     width: 15vw;
+    border-radius: 5rem 5rem 5rem 5rem;
     top: 70vw;
     left: 18vw;
     background-color: #16236e;
@@ -173,6 +176,7 @@
     position: absolute;
     height: 5vw;
     width: 15vw;
+    border-radius: 5rem 5rem 5rem 5rem;
     top: 70vw;
     left: 66vw;
     background-color: #16236e;
@@ -204,6 +208,7 @@
     position: absolute;
     height: 5vw;
     width: 15vw;
+    border-radius: 5rem 5rem 5rem 5rem;
     top: 105vw;
     left: 18vw;
     background-color: #16236e;
@@ -235,6 +240,7 @@
     position: absolute;
     height: 5vw;
     width: 15vw;
+    border-radius: 5rem 5rem 5rem 5rem;
     top: 105vw;
     left: 66vw;
     background-color: #16236e;
@@ -266,6 +272,7 @@
     position: absolute;
     height: 5vw;
     width: 15vw;
+    border-radius: 5rem 5rem 5rem 5rem;
     top: 140vw;
     left: 18vw;
     background-color: #16236e;
@@ -297,6 +304,7 @@
     position: absolute;
     height: 5vw;
     width: 15vw;
+    border-radius: 5rem 5rem 5rem 5rem;
     top: 140vw;
     left: 66vw;
     background-color: #16236e;

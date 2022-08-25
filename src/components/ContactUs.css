@@ -53,6 +53,11 @@
     line-height: 4vw;
 }
 
+.club_email_link {
+    text-decoration: none;
+    color: #bdc6fa;
+}
+
 .ED_google_map {
     width: 50vw;
     height: 46vw;

@@ -1,5 +1,5 @@
 .club_course_whole_page {
-    height: 82vw;
+    height: 142vw;
 }
 
 .cover {
@@ -72,10 +72,9 @@
 }
 
 .player_photo {
-    width: 36vw;
+    width: 30vw;
     position: absolute;
-    right: 6vw;
-
+    right: 9vw;
 }
 
 .player_title {
@@ -97,7 +96,7 @@
     line-height: 3vw;
 }
 
-.learn_more_semicircle {
+.player_learn_more_semicircle {
     height: 5rem;
     width: 12rem;
     border-radius: 5rem 5rem 5rem 5rem;
@@ -110,14 +109,125 @@
     align-items: center;
 }
 
-.learn_more_semicircle:hover {
+.player_learn_more_semicircle:hover {
     background-color: #4b589e;
     cursor: pointer;
 }
 
-.learn_more_text {
+.player_learn_more_text {
     color: #dddddd;
     font-family: 'taipei';
     font-size: 1.3vw;
 }
 
+.notion_course {
+    height: 30vw;
+    background-color: #E6CAFF;
+    display: flex;
+    align-items: center;
+}
+
+.notion_photo {
+    width: 30vw;
+    position: absolute;
+    right: 9vw;
+}
+
+.notion_title {
+    font-family: 'jf-open';
+    position: absolute;
+    top: 85vw;
+    left: 10vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.notion_subtitle {
+    position: absolute;
+    top: 92vw;
+    left: 10vw;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+    letter-spacing: 0.1vw;
+    line-height: 3vw;
+}
+
+.notion_learn_more_semicircle {
+    height: 5rem;
+    width: 12rem;
+    border-radius: 5rem 5rem 5rem 5rem;
+    position: absolute;
+    top: 101vw;
+    left: 10vw;
+    background-color: #16236e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.notion_learn_more_semicircle:hover {
+    background-color: #4b589e;
+    cursor: pointer;
+}
+
+.notion_learn_more_text {
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+}
+
+.clock_course {
+    height: 30vw;
+    background-color: #F1E1FF;
+    display: flex;
+    align-items: center;
+}
+
+.clock_photo {
+    width: 30vw;
+    position: absolute;
+    right: 9vw;
+}
+
+.clock_title {
+    font-family: 'jf-open';
+    position: absolute;
+    top: 114vw;
+    left: 10vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.clock_subtitle {
+    position: absolute;
+    top: 121vw;
+    left: 10vw;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+    letter-spacing: 0.1vw;
+    line-height: 3vw;
+}
+
+.clock_learn_more_semicircle {
+    height: 5rem;
+    width: 12rem;
+    border-radius: 5rem 5rem 5rem 5rem;
+    position: absolute;
+    top: 130vw;
+    left: 10vw;
+    background-color: #16236e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock_learn_more_semicircle:hover {
+    background-color: #4b589e;
+    cursor: pointer;
+}
+
+.clock_learn_more_text {
+    color: #dddddd;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+}
