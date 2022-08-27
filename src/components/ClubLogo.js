@@ -9,19 +9,19 @@ const ClubLogo = () => {
                 <h1 className="title">國立陽明交通大學 創客俱樂部</h1>
             </Link>
             <p className="space_word"></p>
-            <Link to="/" style={{ textDecoration: 'none' }}>
+            <Link to="/" style={{ textDecoration: 'none', cursor: 'default' }}>
                 <p className="navbar_home">首頁</p>
             </Link>
-            <Link to="/maker-camp" style={{ textDecoration: 'none' }}>
+            <Link to="/maker-camp" style={{ textDecoration: 'none', cursor: 'default' }}>
                 <p className="navbar_maker_camp">創客營</p>
             </Link>
-            <Link to="/club-course" style={{ textDecoration: 'none' }}>
+            <Link to="/club-course" style={{ textDecoration: 'none', cursor: 'default' }}>
                 <p className="navbar_club_course">社課</p>
             </Link>
-            <Link to="/competition" style={{ textDecoration: 'none' }}>
+            <Link to="/competition" style={{ textDecoration: 'none', cursor: 'default' }}>
                 <p className="navbar_competition">競賽</p>
             </Link>
-            <Link to="/contact-us" style={{ textDecoration: 'none' }} >
+            <Link to="/contact-us" style={{ textDecoration: 'none', cursor: 'default' }} >
                 <p className="navbar_contact_us">聯絡我們</p>
             </Link>
         </div>
