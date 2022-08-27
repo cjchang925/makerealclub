@@ -97,8 +97,8 @@
 }
 
 .player_learn_more_semicircle {
-    height: 5rem;
-    width: 12rem;
+    height: 4vw;
+    width: 10vw;
     border-radius: 5rem 5rem 5rem 5rem;
     position: absolute;
     top: 72vw;
@@ -153,8 +153,8 @@
 }
 
 .notion_learn_more_semicircle {
-    height: 5rem;
-    width: 12rem;
+    height: 4vw;
+    width: 10vw;
     border-radius: 5rem 5rem 5rem 5rem;
     position: absolute;
     top: 101vw;
@@ -209,8 +209,8 @@
 }
 
 .clock_learn_more_semicircle {
-    height: 5rem;
-    width: 12rem;
+    height: 4vw;
+    width: 10vw;
     border-radius: 5rem 5rem 5rem 5rem;
     position: absolute;
     top: 130vw;

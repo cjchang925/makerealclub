@@ -14,7 +14,7 @@ const MakerCamp = () => {
                     創客營
                 </h2>
                 <p className='maker_camp_subtitle'>
-                    凝聚創客高手，擦出絢爛火花
+                    廣招高中好手，擦出絢爛火花
                 </p>
             </div>
             <img src={cover} alt='maker camp cover' className='maker_camp_cover' />

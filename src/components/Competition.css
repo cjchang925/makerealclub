@@ -1,0 +1,201 @@
+.competition {
+    height: 142vw;
+}
+
+.competition_cover {
+    height: 30vw;
+    background-color: rgb(197,90,17);
+}
+
+.competition_cover_photo {
+    right: 0vw;
+    height: 30vw;
+    position: absolute;
+    top: 6vw;
+}
+
+.competition_title {
+    font-family: 'jf-open';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    top: 13vw;
+    left: 10vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.competition_subtitle {
+    font-family: 'taipei';
+    color: rgb(241, 241, 241);
+    position: absolute;
+    top: 19.5vw;
+    left: 10vw;
+    font-size: 1.5vw;
+    letter-spacing: 0.1vw;
+}
+
+@font-face {
+    font-family: 'jf-open';
+    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'taipei';
+    src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
+}
+
+.competition_under_cover {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 16vw;
+}
+
+.competition_scroll_down_gif {
+    position: absolute;
+    top: 43vw;
+    width: 5vw;
+}
+
+.competition_description {
+    font-family: 'taipei';
+    position: absolute;
+    top: 36.7vw;
+    font-size: 2vw;
+    letter-spacing: 0.1vw;
+}
+
+.cpr {
+    height: 30vw;
+    display: flex;
+    align-items: center;
+    background-color: #D2E9FF;
+}
+
+.cpr_photo {
+    width: 33vw;
+    position: absolute;
+    right: 9vw;
+}
+
+.cpr_title {
+    font-family: 'jf-open';
+    position: absolute;
+    top: 54vw;
+    left: 8vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.cpr_subtitle {
+    font-family: 'taipei';
+    position: absolute;
+    top: 59.5vw;
+    left: 8vw;
+    font-size: 1.8vw;
+    letter-spacing: 0.15vw;
+}
+
+.cpr_text {
+    position: absolute;
+    top: 64vw;
+    left: 8vw;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+    letter-spacing: 0.1vw;
+    line-height: 2.5vw;
+}
+
+.cpr_award {
+    font-family: 'taipei';
+    position: absolute;
+    top: 72vw;
+    left: 8vw;
+    font-size: 1.8vw;
+    letter-spacing: 0.15vw;
+    color: #BB5E00;
+}
+
+.chiao_tsing_LA {
+    height: 30vw;
+    display: flex;
+    align-items: center;
+    background-color: 	#ACD6FF;
+}
+
+.ctLA_title {
+    font-family: 'taipei';
+    position: absolute;
+    top: 86.5vw;
+    left: 8vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.ctLA_photo {
+    width: 33vw;
+    position: absolute;
+    right: 9vw;
+}
+
+.ctLA_text {
+    position: absolute;
+    top: 93.5vw;
+    left: 8vw;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+    letter-spacing: 0.1vw;
+    line-height: 2.5vw;
+}
+
+.ctLA_award {
+    font-family: 'taipei';
+    position: absolute;
+    top: 99.5vw;
+    left: 8vw;
+    font-size: 1.8vw;
+    letter-spacing: 0.15vw;
+    color: #BB5E00;
+}
+
+.cushion {
+    height: 30vw;
+    display: flex;
+    align-items: center;
+    background-color: #D2E9FF;
+}
+
+.cushion_photo {
+    width: 30vw;
+    position: absolute;
+    right: 10.5vw;
+}
+
+.cushion_title {
+    font-family: 'taipei';
+    position: absolute;
+    top: 116vw;
+    left: 8vw;
+    font-size: 3vw;
+    letter-spacing: 0.15vw;
+}
+
+.cushion_text {
+    position: absolute;
+    top: 123vw;
+    left: 8vw;
+    font-family: 'taipei';
+    font-size: 1.3vw;
+    letter-spacing: 0.1vw;
+    line-height: 2.5vw;
+}
+
+.cushion_award {
+    font-family: 'taipei';
+    position: absolute;
+    top: 130vw;
+    left: 8vw;
+    font-size: 1.8vw;
+    letter-spacing: 0.15vw;
+    color: #BB5E00;
+}
