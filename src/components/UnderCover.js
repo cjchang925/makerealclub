@@ -32,9 +32,11 @@ const UnderCoverThreeIntros = () => {
                 學期間舉行，鼓勵社員互相交流技術。
             </p>
             <img src={competitionPhoto} alt='competition' className='competition_photo' />
-            <h3 className='third_intro_title'>
-                參加競賽
-            </h3>
+            <Link to="/competition" className='competition_link'>
+                <h3 className='third_intro_title'>
+                    參加競賽
+                </h3>
+            </Link>
             <p className='third_intro_text'>
                 黑客松、創客松、創創AIoT競賽...無一錯過。
             </p>

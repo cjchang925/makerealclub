@@ -95,10 +95,9 @@
 }
 
 .third_intro_title {
-    position: absolute;
-    top: 90vw;
     font-family: 'jf-open';
     font-size: 2vw;
+    color: black;
 }
 
 .third_intro_title:hover {
@@ -111,4 +110,14 @@
     top: 94.5vw;
     font-family: 'taipei';
     font-size: 1.3vw;
+}
+
+.competition_link {
+    height: 5vw;
+    position: absolute;
+    top: 90vw;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
 }
