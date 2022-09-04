@@ -1,6 +1,6 @@
 import './ClubIntro.css'
 import video from '../videos/homecover.mp4'
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import "../../node_modules/video-react/dist/video-react.css";
 
 const ClubIntro = () => {
@@ -18,9 +18,22 @@ const ClubIntro = () => {
         attemptPlay();
     }, []);
 
+    const [loadCount, setLoadCount] = useState(0);
+
+    const setVideoLoaded = () => {
+        console.log("video loaded");
+        if (loadCount <= 1) {
+            setLoadCount(loadCount + 1);
+        } else {
+            console.log("All videos loaded!");
+        }
+    };
+
     return (
         <div className='club_intro'>
-            <video loop muted ref={videoEl} className='cover_video'>
+            <video loop muted ref={videoEl} className='cover_video' onLoadedData={() => {
+                setVideoLoaded();
+            }}>
                 <source src={video} type="video/mp4" />
             </video>
             <div className='parallelogram'></div>
