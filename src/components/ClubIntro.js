@@ -2,8 +2,11 @@ import './ClubIntro.css'
 import video from '../videos/homecover.mp4'
 import React, { useEffect, useRef, useState } from "react";
 import "../../node_modules/video-react/dist/video-react.css";
+import LoadingPage from './LoadingPage';
 
 const ClubIntro = () => {
+    const [loading, setLoading] = useState("true");
+
     const videoEl = useRef(null);
 
     const attemptPlay = () => {
@@ -15,37 +18,32 @@ const ClubIntro = () => {
     };
 
     useEffect(() => {
+        setLoading("false");
         attemptPlay();
-    }, []);
+    }, [loading]);
 
-    const [loadCount, setLoadCount] = useState(0);
-
-    const setVideoLoaded = () => {
-        console.log("video loaded");
-        if (loadCount <= 1) {
-            setLoadCount(loadCount + 1);
-        } else {
-            console.log("All videos loaded!");
-        }
-    };
-
-    return (
-        <div className='club_intro'>
-            <video loop muted ref={videoEl} className='cover_video' onLoadedData={() => {
-                setVideoLoaded();
-            }}>
-                <source src={video} type="video/mp4" />
-            </video>
-            <div className='parallelogram'></div>
-            <div className='white_blocking'></div>
-            <h2 className='club_intro_title'>
-                交大創客
-            </h2>
-            <p className='subtitle'>
-                聚焦技術<span>&nbsp;&nbsp;</span>實踐創客精神
-            </p>
-        </div>
-    );
+    if (loading === "true") {
+        return (
+            <LoadingPage />
+        )
+    }
+    else {
+        return (
+            <div className='club_intro'>
+                <video loop muted ref={videoEl} className='cover_video' preload='auto'>
+                    <source src={video} type="video/mp4" />
+                </video>
+                <div className='parallelogram'></div>
+                <div className='white_blocking'></div>
+                <h2 className='club_intro_title'>
+                    交大創客
+                </h2>
+                <p className='subtitle'>
+                    聚焦技術<span>&nbsp;&nbsp;</span>實踐創客精神
+                </p>
+            </div>
+        );
+    }
 }
 
 export default ClubIntro;
