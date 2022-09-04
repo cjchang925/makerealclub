@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9866d67b.css",
-    "main.js": "/static/js/main.19d4a445.js",
+    "main.css": "/static/css/main.1352352e.css",
+    "main.js": "/static/js/main.459d30d9.js",
     "static/js/787.3dd3f24c.chunk.js": "/static/js/787.3dd3f24c.chunk.js",
     "static/media/TaipeiSansTCBeta-Regular.ttf": "/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
     "static/media/makercamp2022cover.mp4": "/static/media/makercamp2022cover.2b9956e31d58ecf0d712.mp4",
@@ -45,12 +45,12 @@
     "static/media/copyright.png": "/static/media/copyright.8878c5832adfc8a04c28.png",
     "static/media/team7-1.jpg": "/static/media/team7-1.4617be57acf0f877bb58.jpg",
     "index.html": "/index.html",
-    "main.9866d67b.css.map": "/static/css/main.9866d67b.css.map",
-    "main.19d4a445.js.map": "/static/js/main.19d4a445.js.map",
+    "main.1352352e.css.map": "/static/css/main.1352352e.css.map",
+    "main.459d30d9.js.map": "/static/js/main.459d30d9.js.map",
     "787.3dd3f24c.chunk.js.map": "/static/js/787.3dd3f24c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9866d67b.css",
-    "static/js/main.19d4a445.js"
+    "static/css/main.1352352e.css",
+    "static/js/main.459d30d9.js"
   ]
 }
