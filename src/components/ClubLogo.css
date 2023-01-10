@@ -15,6 +15,34 @@
     margin-left: 1.5vw;
 }
 
+.club_icon {
+    margin-left: 2vw;
+    height: 4vw;
+    width: auto;
+}
+
+.bar_icon {
+    position: absolute;
+    left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .title {
+        font-size: 18px;
+        letter-spacing: 3px;
+        margin-left: 5px;
+    }
+    .club_icon {
+        margin-left: 5px;
+    }
+    .club_logo {
+        justify-content: center;
+        height: 50px;
+    }
+}
+
 .space_word {
     background-color: #eeeeee;
     height: 6vw;

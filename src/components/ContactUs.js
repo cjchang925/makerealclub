@@ -129,12 +129,12 @@ const ContactUs = () => {
                     </p>
                 </a>
                 <p className="PR3_name">
-                    黃哲筠
+                    李博安
                 </p>
-                <a target="_blank" rel="noreferrer" href='mailto: coco20030323.ee10@nycu.edu.tw'>
+                <a target="_blank" rel="noreferrer" href='mailto: gahxi0769.ee10@nycu.edu.tw'>
                     <HiOutlineMail size={windowSize.innerWidth * 0.021} className='PR3_email_icon' />
                     <p className="PR3_email">
-                        coco20030323.ee10@nycu.edu.tw
+                        gahxi0769.ee10@nycu.edu.tw
                     </p>
                 </a>
                 <p className="AD_title">
