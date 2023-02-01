@@ -14,7 +14,7 @@
 }
 
 .cover_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: rgb(241, 241, 241);
     position: absolute;
     top: 13vw;
@@ -23,18 +23,10 @@
     letter-spacing: 0.15vw;
 }
 
-@font-face {
-    font-family: 'jf-open';
-    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
-}
-
-@font-face {
-    font-family: 'taipei';
-    src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap');
 
 .cover_subtitle {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     color: rgb(241, 241, 241);
     position: absolute;
     top: 19.5vw;
@@ -50,7 +42,7 @@
 }
 
 .description {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 37vw;
     font-size: 2vw;
@@ -78,7 +70,7 @@
 }
 
 .player_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 56vw;
     left: 10vw;
@@ -90,7 +82,7 @@
     position: absolute;
     top: 63vw;
     left: 10vw;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
     letter-spacing: 0.1vw;
     line-height: 3vw;
@@ -116,7 +108,7 @@
 
 .player_learn_more_text {
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
 }
 
@@ -134,7 +126,7 @@
 }
 
 .notion_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 85vw;
     left: 10vw;
@@ -146,7 +138,7 @@
     position: absolute;
     top: 92vw;
     left: 10vw;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
     letter-spacing: 0.1vw;
     line-height: 3vw;
@@ -172,7 +164,7 @@
 
 .notion_learn_more_text {
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
 }
 
@@ -190,7 +182,7 @@
 }
 
 .clock_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 114vw;
     left: 10vw;
@@ -202,7 +194,7 @@
     position: absolute;
     top: 121vw;
     left: 10vw;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
     letter-spacing: 0.1vw;
     line-height: 3vw;
@@ -228,6 +220,6 @@
 
 .clock_learn_more_text {
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
 }

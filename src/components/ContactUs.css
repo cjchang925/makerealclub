@@ -4,7 +4,7 @@
 }
 
 .contact_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 3vw;
     position: absolute;
     top: 8vw;
@@ -14,7 +14,7 @@
 }
 
 .location_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 21vw;
@@ -25,7 +25,7 @@
 }
 
 .location_address {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 26.8vw;
@@ -43,7 +43,7 @@
 }
 
 .club_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 30.4vw;
@@ -72,7 +72,7 @@
 }
 
 .chairperson_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 60vw;
@@ -83,7 +83,7 @@
 }
 
 .chairperson_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 66vw;
@@ -101,7 +101,7 @@
 }
 
 .chairperson_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 68.5vw;
@@ -119,7 +119,7 @@
 }
 
 .chairperson_phone {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 71.3vw;
@@ -141,7 +141,7 @@
 }
 
 .PR_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 83vw;
@@ -163,7 +163,7 @@
 }
 
 .PR_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 89vw;
@@ -181,7 +181,7 @@
 }
 
 .PR_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 91.5vw;
@@ -192,7 +192,7 @@
 }
 
 .PR2_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 97vw;
@@ -210,7 +210,7 @@
 }
 
 .PR2_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 99.5vw;
@@ -221,7 +221,7 @@
 }
 
 .PR3_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 105vw;
@@ -239,7 +239,7 @@
 }
 
 .PR3_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 107.5vw;
@@ -250,7 +250,7 @@
 }
 
 .teaching_leader_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 75vw;
@@ -272,7 +272,7 @@
 }
 
 .teaching_leader_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 81vw;
@@ -290,7 +290,7 @@
 }
 
 .teaching_leader_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 83.5vw;
@@ -301,7 +301,7 @@
 }
 
 .teaching_leader2_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 89vw;
@@ -319,7 +319,7 @@
 }
 
 .teaching_leader2_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 91.5vw;
@@ -330,7 +330,7 @@
 }
 
 .teaching_leader3_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 97vw;
@@ -348,7 +348,7 @@
 }
 
 .teaching_leader3_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 99.5vw;
@@ -359,7 +359,7 @@
 }
 
 .vice_president_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 60vw;
@@ -381,7 +381,7 @@
 }
 
 .vice_president_1_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 66vw;
@@ -399,7 +399,7 @@
 }
 
 .vice_president_1_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 68.5vw;
@@ -410,7 +410,7 @@
 }
 
 .vice_president_2_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 74vw;
@@ -428,7 +428,7 @@
 }
 
 .vice_president_2_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 76.5vw;
@@ -438,13 +438,11 @@
     line-height: 4vw;
 }
 
-@font-face {
-    font-family: 'jf-open';
-    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap');
+
 
 .AD_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 106vw;
@@ -466,7 +464,7 @@
 }
 
 .AD_1_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 112vw;
@@ -484,7 +482,7 @@
 }
 
 .AD_1_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 114.5vw;
@@ -495,7 +493,7 @@
 }
 
 .AD_2_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 120vw;
@@ -513,7 +511,7 @@
 }
 
 .AD_2_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 122.5vw;
@@ -524,7 +522,7 @@
 }
 
 .doc_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 129vw;
@@ -546,7 +544,7 @@
 }
 
 .doc_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 135vw;
@@ -564,7 +562,7 @@
 }
 
 .doc_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 137.5vw;
@@ -575,7 +573,7 @@
 }
 
 .GA_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 114vw;
@@ -597,7 +595,7 @@
 }
 
 .GA_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 120vw;
@@ -615,7 +613,7 @@
 }
 
 .GA_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 122.5vw;
@@ -626,7 +624,7 @@
 }
 
 .GA2_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 128vw;
@@ -644,7 +642,7 @@
 }
 
 .GA2_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 130.5vw;
@@ -656,7 +654,7 @@
 
 
 .internet_manager_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
     top: 129vw;
@@ -678,7 +676,7 @@
 }
 
 .internet_manager_name {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
     top: 135vw;
@@ -696,7 +694,7 @@
 }
 
 .internet_manager_email {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
     top: 137.5vw;

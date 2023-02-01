@@ -15,7 +15,7 @@
 }
 
 .competition_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: rgb(241, 241, 241);
     position: absolute;
     top: 13vw;
@@ -25,7 +25,7 @@
 }
 
 .competition_subtitle {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     color: rgb(241, 241, 241);
     position: absolute;
     top: 19.5vw;
@@ -34,13 +34,10 @@
     letter-spacing: 0.1vw;
 }
 
-@font-face {
-    font-family: 'jf-open';
-    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap');
 
 @font-face {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
 }
 
@@ -58,7 +55,7 @@
 }
 
 .competition_description {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 36.7vw;
     font-size: 2vw;
@@ -79,7 +76,7 @@
 }
 
 .cpr_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 54vw;
     left: 8vw;
@@ -88,7 +85,7 @@
 }
 
 .cpr_subtitle {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 59.5vw;
     left: 8vw;
@@ -100,14 +97,14 @@
     position: absolute;
     top: 64vw;
     left: 8vw;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
     letter-spacing: 0.1vw;
     line-height: 2.5vw;
 }
 
 .cpr_award {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 72vw;
     left: 8vw;
@@ -124,7 +121,7 @@
 }
 
 .ctLA_title {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 86.5vw;
     left: 8vw;
@@ -142,14 +139,14 @@
     position: absolute;
     top: 93.5vw;
     left: 8vw;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
     letter-spacing: 0.1vw;
     line-height: 2.5vw;
 }
 
 .ctLA_award {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 99.5vw;
     left: 8vw;
@@ -172,7 +169,7 @@
 }
 
 .cushion_title {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 116vw;
     left: 8vw;
@@ -184,14 +181,14 @@
     position: absolute;
     top: 123vw;
     left: 8vw;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.3vw;
     letter-spacing: 0.1vw;
     line-height: 2.5vw;
 }
 
 .cushion_award {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 130vw;
     left: 8vw;

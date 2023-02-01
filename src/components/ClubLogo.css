@@ -8,7 +8,7 @@
 }
 
 .title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: #524f4f;
     font-size: 2vw;
     letter-spacing: 0.2vw;
@@ -50,7 +50,7 @@
 }
 
 .navbar_home {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: #524f4f;
     font-size: 1.7vw;
     background: #eeeeee;
@@ -68,7 +68,7 @@
 }
 
 .navbar_maker_camp {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: #524f4f;
     font-size: 1.7vw;
     background: #eeeeee;
@@ -86,7 +86,7 @@
 }
 
 .navbar_club_course {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: #524f4f;
     font-size: 1.7vw;
     background: #eeeeee;
@@ -104,7 +104,7 @@
 }
 
 .navbar_competition {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: #524f4f;
     font-size: 1.7vw;
     background: #eeeeee;
@@ -122,7 +122,7 @@
 }
 
 .navbar_contact_us {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: #524f4f;
     font-size: 1.7vw;
     background: #eeeeee;
@@ -139,7 +139,4 @@
     text-decoration: underline;
 }
 
-@font-face {
-    font-family: 'jf-open';
-    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap');

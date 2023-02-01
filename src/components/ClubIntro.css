@@ -31,7 +31,7 @@
 }
 
 .club_intro_text {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.9vw;
     position: absolute;
     left: 5vw;
@@ -67,7 +67,7 @@
     top: 10vw;
     left: 16vw;
     z-index: 4;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 3vw;
     color: rgb(241, 241, 241);
     letter-spacing: 0.15vw;
@@ -78,14 +78,10 @@
     top: 16vw;
     left: 16vw;
     z-index: 4;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     color: rgb(241, 241, 241);
     letter-spacing: 0.1vw;
 }
 
-@font-face {
-    font-family: 'jf-open';
-    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap');

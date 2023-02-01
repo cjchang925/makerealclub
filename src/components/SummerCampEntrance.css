@@ -14,7 +14,7 @@
 }
 
 .summer_camp_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 60.7vw;
     left: 5vw;
@@ -35,7 +35,7 @@
 }
 
 .summer_camp_text {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: #dddddd;
     font-size: 1.9vw;
     position: absolute;
@@ -45,7 +45,4 @@
     line-height: 4vw;
 }
 
-@font-face {
-    font-family: 'jf-open';
-    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap');

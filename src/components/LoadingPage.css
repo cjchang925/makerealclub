@@ -7,14 +7,11 @@
 }
 
 .loading_title {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 3vw;
     letter-spacing: 0.1vw;
     position: absolute;
     top: 35vh;
 }
 
-@font-face {
-    font-family: 'jf-open';
-    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap');

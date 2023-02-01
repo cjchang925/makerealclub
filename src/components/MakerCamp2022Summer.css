@@ -24,7 +24,7 @@
 
 .maker_camp_2022_summer_title {
     color: #dddddd;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 3vw;
     position: absolute;
     top: 7vw;
@@ -33,7 +33,7 @@
 }
 
 .maker_camp_2022_summer_subtitle {
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     color: rgb(241, 241, 241);
     position: absolute;
     top: 13vw;
@@ -42,13 +42,10 @@
     letter-spacing: 0.11vw;
 }
 
-@font-face {
-    font-family: 'jf-open';
-    src: url('../fonts/GenJyuuGothic-Regular.ttf') format("truetype");
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap');
 
 @font-face {
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     src: url('../fonts/TaipeiSansTCBeta-Regular.ttf') format("truetype");
 }
 
@@ -65,7 +62,7 @@
 .courses_title {
     font-size: 3vw;
     color: #222222;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 1vw;
 }
@@ -97,7 +94,7 @@
 .basic_programming_link {
     text-decoration: none;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
 }
 
@@ -124,9 +121,9 @@
 .basic_eletronics_link {
     text-decoration: none;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .basic_eletronics_card:hover {
@@ -156,9 +153,9 @@
 .super_eletronics_link {
     text-decoration: none;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .super_eletronics_card:hover {
@@ -188,9 +185,9 @@
 .player_programming_link {
     text-decoration: none;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .player_programming_card:hover {
@@ -220,9 +217,9 @@
 .player_welding_link {
     text-decoration: none;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .player_welding_card:hover {
@@ -252,9 +249,9 @@
 .computer_thinking_link {
     text-decoration: none;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .computer_thinking_card:hover {
@@ -284,9 +281,9 @@
 .ppt_link {
     text-decoration: none;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .ppt_card:hover {
@@ -316,9 +313,9 @@
 .brainstorming_link {
     text-decoration: none;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 .brainstorming_card:hover {
@@ -352,7 +349,7 @@
 .hackathon_title {
     font-size: 3vw;
     color: #dddddd;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: -0.5vw;
     width: 30vw;
@@ -363,7 +360,7 @@
 .hackathon_subtitle {
     font-size: 1.56vw;
     color: #dddddd;
-    font-family: 'jf-open';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 5.5vw;
     width: 30vw;
@@ -374,7 +371,7 @@
 .hackathon_demo_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 26vw;
     letter-spacing: 0.3vw;
@@ -393,7 +390,7 @@
 .team1_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 10vw;
     left: 10vw;
@@ -409,7 +406,7 @@
 .team1_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 16vw;
     left: 10vw;
@@ -420,7 +417,7 @@
 .team2_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 85vw;
     left: 10vw;
@@ -437,7 +434,7 @@
 .team2_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 91vw;
     left: 10vw;
@@ -458,7 +455,7 @@
 .team3_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 8vw;
     left: 10vw;
@@ -474,7 +471,7 @@
 .team3_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 14vw;
     left: 10vw;
@@ -485,7 +482,7 @@
 .team4_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 160vw;
     left: 10vw;
@@ -509,7 +506,7 @@
 .team4_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 166vw;
     left: 10vw;
@@ -530,7 +527,7 @@
 .team5_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 9vw;
     left: 10vw;
@@ -546,7 +543,7 @@
 .team5_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 15vw;
     left: 10vw;
@@ -564,7 +561,7 @@
 .team6_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 230vw;
     left: 10vw;
@@ -574,7 +571,7 @@
 .team6_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 236vw;
     left: 10vw;
@@ -595,7 +592,7 @@
 .team7_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 9vw;
     left: 10vw;
@@ -617,7 +614,7 @@
 .team7_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 15vw;
     left: 10vw;
@@ -628,7 +625,7 @@
 .team8_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 300vw;
     left: 10vw;
@@ -645,7 +642,7 @@
 .team8_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 306vw;
     left: 10vw;
@@ -666,7 +663,7 @@
 .team9_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 8vw;
     left: 10vw;
@@ -682,7 +679,7 @@
 .team9_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 14vw;
     left: 10vw;
@@ -700,7 +697,7 @@
 .team10_title {
     font-size: 2.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 378vw;
     left: 10vw;
@@ -710,7 +707,7 @@
 .team10_subtitle {
     font-size: 1.5vw;
     color: #dddddd;
-    font-family: 'taipei';
+    font-family: 'Noto Sans TC', sans-serif;
     position: absolute;
     top: 384vw;
     left: 10vw;
