@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.63c37d00.css",
+    "main.css": "/static/css/main.2339e8f7.css",
     "main.js": "/static/js/main.38aae3be.js",
     "static/js/787.3dd3f24c.chunk.js": "/static/js/787.3dd3f24c.chunk.js",
     "static/media/TaipeiSansTCBeta-Regular.ttf": "/static/media/TaipeiSansTCBeta-Regular.3c32e3281e645b03c15a.ttf",
     "static/media/makercamp2022cover.mp4": "/static/media/makercamp2022cover.2b9956e31d58ecf0d712.mp4",
-    "static/media/GenJyuuGothic-Regular.ttf": "/static/media/GenJyuuGothic-Regular.e201ca409c084f1ec671.ttf",
     "static/media/homecover.mp4": "/static/media/homecover.767905cf66ff0ad03970.mp4",
     "static/media/team8.JPG": "/static/media/team8.fab9fa11e061e96e4ee0.JPG",
     "static/media/cpr.png": "/static/media/cpr.785c2ec9121a24e5192a.png",
@@ -45,12 +44,12 @@
     "static/media/copyright.png": "/static/media/copyright.8878c5832adfc8a04c28.png",
     "static/media/team7-1.jpg": "/static/media/team7-1.4617be57acf0f877bb58.jpg",
     "index.html": "/index.html",
-    "main.63c37d00.css.map": "/static/css/main.63c37d00.css.map",
+    "main.2339e8f7.css.map": "/static/css/main.2339e8f7.css.map",
     "main.38aae3be.js.map": "/static/js/main.38aae3be.js.map",
     "787.3dd3f24c.chunk.js.map": "/static/js/787.3dd3f24c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63c37d00.css",
+    "static/css/main.2339e8f7.css",
     "static/js/main.38aae3be.js"
   ]
 }
