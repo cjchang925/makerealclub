@@ -657,7 +657,7 @@
     font-family: 'Noto Sans TC', sans-serif;
     font-size: 2.5vw;
     position: absolute;
-    top: 129vw;
+    top: 137vw;  /*129*/
     left: 55vw;
     color: #16236e;
     letter-spacing: 0.1vw;
@@ -671,7 +671,7 @@
     height: 0.2vw;
     position: absolute;
     left: 55vw;
-    top: 134.6vw;
+    top: 142.6vw; /*134.6*/
     background: #16236e;
 }
 
@@ -679,7 +679,7 @@
     font-family: 'Noto Sans TC', sans-serif;
     font-size: 2vw;
     position: absolute;
-    top: 135vw;
+    top: 143vw; /*135*/
     left: 55vw;
     color: #16236e;
     letter-spacing: 0.1vw;
@@ -688,7 +688,7 @@
 
 .internet_manager_email_icon {
     position: absolute;
-    top: 140vw;
+    top: 148vw; /*140*/
     left: 55vw;
     color: #16236e;
 }
@@ -697,7 +697,7 @@
     font-family: 'Noto Sans TC', sans-serif;
     font-size: 1.5vw;
     position: absolute;
-    top: 137.5vw;
+    top: 145.5vw; /*137.5*/
     left: 58vw;
     color: #16236e;
     letter-spacing: 0.1vw;
