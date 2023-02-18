@@ -176,7 +176,7 @@ const ContactUs = () => {
                 </p>
                 <hr className='GA_separate_line' />
                 <p className="GA_name">
-                    許芝蓉
+                    許芝榕
                 </p>
                 <a target="_blank" rel="noreferrer" href='mailto:sharon111652027.sc11@nycu.edu.tw'>
                     <HiOutlineMail size={windowSize.innerWidth * 0.021} className='GA_email_icon' />
@@ -184,18 +184,15 @@ const ContactUs = () => {
                         sharon111652027.sc11@nycu.edu.tw
                     </p>
                 </a>
-                {/*
                 <p className="GA2_name">
-                    TBD
+                    彭弈睿
                 </p>
-                <a target="_blank" rel="noreferrer" href='mailto:'>
+                <a target="_blank" rel="noreferrer" href='mailto:ray.ee11@nycu.edu.tw'>
                     <HiOutlineMail size={windowSize.innerWidth * 0.021} className='GA2_email_icon' />
                     <p className="GA2_email">
-                        ...
+                        ray.ee11@nycu.edu.tw
                     </p>
-                </a>
-                */}
-                
+                </a>                
                 <p className="internet_manager_title">
                     網頁
                 </p>
