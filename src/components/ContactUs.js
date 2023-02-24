@@ -105,6 +105,15 @@ const ContactUs = () => {
                         yuna111511176.ee11@nycu.edu.tw
                     </p>
                 </a>
+                <p className="teaching_leader4_name">
+                    張家睿
+                </p>
+                <a target="_blank" rel="noreferrer" href='mailto:qulip.louis.0126@gmail.com'>
+                    <HiOutlineMail size={windowSize.innerWidth * 0.021} className='teaching_leader4_email_icon' />
+                    <p className="teaching_leader4_email">
+                        qulip.louis.0126@gmail.com
+                    </p>
+                </a>
                 <p className="PR_title">
                     公關
                 </p>
