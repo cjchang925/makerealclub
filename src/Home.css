@@ -1,7 +1,7 @@
 .home_inside {
     display: flex;
     flex-direction: column;
-    height: 180vw;
+    height: 180vw; 
 }
 
 .copy_right_home {
